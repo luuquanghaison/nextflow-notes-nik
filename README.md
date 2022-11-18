@@ -133,6 +133,8 @@ cd myUserName
 git clone git@github.com:UBC-Stat-ML/nextflow-notes.git
 cd nextflow-notes
 ```
+Note that to run `git` you might need to run `module load git`. To avoid having to do this every time, add it to your `.bashrc` file.
+
 - We can now start the script (ignore "failed to retrieve queue status" messages)
 
 ```
