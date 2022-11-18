@@ -121,7 +121,7 @@ screen -dr
 ```
 
 - Once you are in a screen, ssh into Sockeye (See the instructions: https://confluence.it.ubc.ca/display/UARC/Quickstart+Guide. Note that you might need to use 
-WSL1 instead of WSL2 if you are on Windows.)
+WSL1 instead of WSL2 if you are on Windows. See also: https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2)
 - In Sockeye, follow the instructions below to create a symlink to where you will be cloning this repo (a specific location in the file system where read and write will be much faster than your home folder; shared across my allocation, so create a subfolder; warning, not backed up but as you will see, part of the process will include a kind of back up in github), then clone and go there
 
 ```
